@@ -1,0 +1,12 @@
+# langchain-community
+# langchain-openai
+# langchain-text-splitters
+gradio
+# langchain
+langdetect
+faiss-cpu
+python-dotenv
+transformers
+torch
+pandas
+numpy
